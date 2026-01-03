@@ -14,9 +14,12 @@ venv/
 # VSCode
 .vscode/
 
-# DVC cache
-.dvc/cache/
-*.dvc
-
-# Data
+# Data folder (ignore actual data files, but track DVC metafiles)
 data/
+!data/**/*.dvc
+!.dvc
+# DVC cache (ignore the heavy cache folder)
+.dvc/cache/
+
+# Track DVC folder itself
+!.dvc/
