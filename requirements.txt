@@ -6,3 +6,8 @@ scipy
 jupyterlab
 regex
 dvc
+tqdm 
+sentence-transformers 
+faiss-cpu 
+langchain 
+chromadb
