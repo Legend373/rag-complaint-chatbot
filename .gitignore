@@ -23,3 +23,5 @@ data/
 
 # Track DVC folder itself
 !.dvc/
+vector_store/
+/vector_store
