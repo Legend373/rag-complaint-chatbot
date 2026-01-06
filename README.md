@@ -60,3 +60,17 @@ This system will **transform unstructured complaint data into actionable insight
 - Identify **emerging issues quickly**  
 - Empower non-technical teams to **self-serve insights**  
 - Drive **proactive decision-making** based on real-time feedback
+
+UI Showcase 
+
+### Screenshot 1 – Main Chat Interface
+![Main Chat Interface](images/image1.png)
+
+### Screenshot 2 – Top Source Display
+![Top Source Display](images/image2.png)
+
+
+
+
+
+
